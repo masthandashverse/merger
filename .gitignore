@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+output/*
+!output/.gitkeep
+uploads/
+*.mp4
+*.mkv
+*.avi
+.env
+venv/
